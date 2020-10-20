@@ -12,7 +12,7 @@ Running a local development network on phala network
 ### phost
 ![](https://github.com/beqaabu/HW-polkadot-phala-network/blob/main/images/phala%20terminal%203.png)
 
-## wallet with secret token
+## Wallet with secret token
 ![](https://github.com/beqaabu/HW-polkadot-phala-network/blob/main/images/wallet%20correct.png)
 
 Tweet: https://twitter.com/BeqaAbu/status/1318481675173679104
