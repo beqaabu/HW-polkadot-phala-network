@@ -1,2 +1,3 @@
 # HW-polkadot-phala-network
-running a local development network on phala network
+Running a local development network on phala network
+
